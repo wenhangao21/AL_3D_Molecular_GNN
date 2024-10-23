@@ -1,6 +1,6 @@
 # Empowering Active Learning for 3D Molecular Graphs with Geometric Graph Isomorphism
 
-This repository contains the PyTorch implementation of the paper **[Empowering Active Learning for 3D Molecular Graphs with Geometric Graph Isomorphism](https://openreview.net/pdf?id=He2GCHeRML)**.
+This repository contains the PyTorch implementation of the paper "**[Empowering Active Learning for 3D Molecular Graphs with Geometric Graph Isomorphism](https://openreview.net/pdf?id=He2GCHeRML)**", R.Subedi, L.Wei, W.Gao, S.Chakraborty., Y.Liu. NeurIPS, 2024.
 
 In this paper, we present a principled Active Learning (AL) paradigm for 3D molecular learning. We propose a set of new 3D graph isometries for obtaining geometric representations of 3D molecular graphs. We formulate a criterion based on uncertainty (using the Bayesian Geometric Graph Neural Network (BGNN)) and diversity (using our proposed method for representing 3D geometric graphs), and pose active sampling as a Quadratic Programming (QP) problem. Experiments on the 3D molecular datasets(QM9 and MD17) demonstrate the effectiveness of our method compared to the baselines.
 
@@ -11,9 +11,9 @@ _Some part of the codebase is adapted from **[DIG](https://github.com/divelab/DI
 ## BibTeX
 ```bash
     @inproceedings{
-        anonymous2024empowering,
+        subedi2024empowering,
         title={Empowering Active Learning for 3D Molecular Graphs with Geometric Graph Isomorphism},
-        author={Anonymous},
+        author={Subedi, Ronast and Wei, Lu and Gao, Wenhan and Chakraborty, Shayok and Liu, Yi},
         booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
         year={2024},
         url={https://openreview.net/forum?id=He2GCHeRML}
