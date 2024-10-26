@@ -84,4 +84,4 @@ Processed .pt dataset containing [25000, 10000, 10831] [train, valid, test] samp
 
 # Results
 
-<p align="center"><img width="100%" src="imgs/res.png" /></p>
+<p align="center"><img width="50%" src="imgs/res.png" /></p>
