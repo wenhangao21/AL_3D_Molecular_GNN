@@ -6,7 +6,7 @@ In this paper, we present a principled Active Learning (AL) paradigm for 3D mole
 
 _Some part of the codebase is adapted from **[DIG](https://github.com/divelab/DIG?tab=readme-ov-file)** repository._
 
-<p align="center"><img width="100%" src="imgs/pipeline.png" /></p>
+<p align="center"><img width="50%" src="imgs/pipeline.png" /></p>
 
 ## BibTeX
 ```bash
